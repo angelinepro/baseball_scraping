@@ -1,1 +1,1 @@
-This folder has supplemental code for the blog post on scraping Baseball Reference and Fangraphs. https://www.angelineprotacio.com/portfolio/webscraping/
+This folder has supplemental code for the [blog post on scraping Baseball Reference and Fangraphs](https://www.angelineprotacio.com/portfolio/webscraping/). To see code to predict quality starts, [check out the other repo](https://github.com/angelinepro/portfolio_supplemental/tree/master/predicting_quality_starts).
