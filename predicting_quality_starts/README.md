@@ -1,0 +1,1 @@
+This folder has supplemental code for the blog post on predicting quality starts. https://www.angelineprotacio.com/portfolio/quality-starts/
